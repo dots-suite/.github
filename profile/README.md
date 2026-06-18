@@ -1,4 +1,4 @@
-## DOTS Open Tools Suite
+## DOTS Open Tool Suite
 
 
 
