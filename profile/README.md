@@ -36,10 +36,9 @@
     width="25%"
     align="left"
   />
-  <br><br>
   <img src="https://img.shields.io/badge/Built%20with-❤️&🔴-ff69b4?style=flat-square" alt="Built with love" /> at École nationale des chartes – PSL, with support from Biblissima+.
   <br><br>
-  <br><br>
+  <br>
   <img src="../enc-logo.svg" alt="École nationale des chartes – PSL" height="75" /><br>
   <img src="../biblissima-logo.png" alt="Biblissima+" height="100" />
 </p>
