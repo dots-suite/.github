@@ -37,5 +37,8 @@
     align="left"
   />
   These tools were developed at École nationale des chartes – PSL with Biblissima+.
+  <br><br>
+  <img src="../enc-logo.svg" alt="École nationale des chartes – PSL" height="75" /><br>
+  <img src="../biblissima-logo.png" alt="Biblissima+" height="100" />
 </p>
 <br clear="left">
