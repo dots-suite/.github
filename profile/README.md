@@ -33,7 +33,7 @@
   <img
     src="../banner-footer.png"
     alt="DOTS logo"
-    width="80%"
+    width="15%"
     align="left"
   />
   These tools were developed at École nationale des chartes – PSL with Biblissima+.
