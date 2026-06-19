@@ -23,7 +23,7 @@
 
 | Project | Description |
 |---------|-------------|
-| **thunderdots** | Python crawler for scraping from DoTS. |
+| **thunderdots** | Python DTS crawler for scraping from DoTS. |
 
 ## 🧩 Example Settings
 
