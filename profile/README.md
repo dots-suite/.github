@@ -29,4 +29,13 @@
 
 ## Funding
 
-These toolsuite were developed at École nationale des chartes – PSL with Biblissima+
+<p>
+  <img
+    src="../banner-footer.png"
+    alt="DOTS logo"
+    width="80%"
+    align="left"
+  />
+  These tools were developed at École nationale des chartes – PSL with Biblissima+.
+</p>
+<br clear="left">
