@@ -5,7 +5,7 @@
     width="90%"
     height="60%"
   />
-  <p align="center">⭕ <b>DoTS</b> is a FAIR and open-source ecosystem for publishing scholarly editions and promoting cultural heritage data 🔴</p>
+  <p align="center">⭕ <b>DoTS</b> is a FAIR and open-source ecosystem for publishing and exploring scholarly editions and promoting cultural heritage data 🔴</p>
 </p>
 
 ## 👩‍💻 Core project
