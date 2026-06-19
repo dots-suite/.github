@@ -5,9 +5,8 @@
     width="90%"
     height="60%"
   />
+  <p align="center">⭕ <b>Dots Open Tool Suite</b> is a FAIR, open-source ecosystem for publishing scholarly editions and promoting cultural heritage data 🔴</p>
 </p>
-
-⭕ **Dots Open Tool Suite** is a FAIR, open-source ecosystem for publishing scholarly editions and promoting cultural heritage data 🔴
 
 ## 👩‍💻 Core project
 
