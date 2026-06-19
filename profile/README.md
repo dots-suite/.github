@@ -5,9 +5,9 @@
     width="90%"
     height="60%"
   />
-  <p align="center">⭕ Do you want to publish and explore scientific or scholarly editions? <b>DoTS</b>: a FAIR and open-source ecosystem for promoting cultural heritage data 🔴</p>
+<!--  <p align="center">⭕ Do you want to publish and explore scientific or scholarly editions? <b>DoTS</b>: a FAIR and open-source ecosystem for promoting cultural heritage data 🔴</p>
   <p align="center">⭕ DoTS is a FAIR-compliant, open-source ecosystem for the publication and exploration of scholarly editions, enhancing the interoperability, accessibility, and reuse of cultural heritage data 🔴
- </p>
+ </p> -->
   <p align="center">⭕ DoTS is a FAIR-compliant, open-source ecosystem for publishing and exploring scholarly editions, promoting cultural heritage data accessibility 🔴
  </p>
 </p>
