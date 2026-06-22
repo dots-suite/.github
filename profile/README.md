@@ -31,6 +31,10 @@
 |---------|-------------|
 | - | - |
 
+## Resources
+
+- <a href="https://hal.science/hal-05175910v1" target="_blank">FAIRly publishing your textual data with DoTS</a>
+
 ## Funding
 
 <p>
