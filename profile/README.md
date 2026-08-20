@@ -33,7 +33,8 @@
 
 ## Resources
 
-- <a href="https://hal.science/hal-05175910v1" target="_blank">FAIRly publishing your textual data with DoTS</a>
+- <a href="https://hal.science/hal-05175910v1" target="_blank">DH2025, Lisbon, PT — FAIRly publishing your textual data with DoTS</a>
+- EADH2026, Kraków, PL — *comming soon*
 
 ## Funding
 
