@@ -26,9 +26,9 @@ Each module is designed to be simple to use, on its own or combined with the oth
 |**[ThunderDoTS documentation](https://dots-suite.github.io/ThunderDots/)**| Covers installing and configuring ThunderDoTS, fragmenting TEI documents and validating their metadata, and exporting results to Elasticsearch, Qdrant, or DataFrames.|
 |**Cookbooks**|The DoTS documentation provides [cookbooks](https://dots-suite.github.io/dots_documentation/cookbook/) for publishing sample corpora (the Théâtre corpus, the École des chartes' _Positions de thèses_, etc.). You can then browse our [DoTS-vue cookbooks](https://dots.chartes.psl.eu/cookbook/), showcasing the responsive scholarly-edition web application built on the same corpora for consistency. Each published corpus comes with its own step-by-step recipe, teaching you by example how to configure your own DoTS-vue instance.|
 
-To help you understand the DoTS-vue configuration file, we also provide a sample configuration:
-
 ## 🧩 Example Settings
+
+To help you understand the DoTS-vue configuration file, we also provide a sample configuration:
 
 |Resource|Description|
 |---|---|
