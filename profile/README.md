@@ -32,7 +32,7 @@ To help you understand the DoTS-vue configuration file, we also provide a sample
 
 |Resource|Description|
 |---|---|
-|**[dots-vue-demo-settings](https://github.com/dots-suite/dots-vue-demo-settings)**|Example configuration settings for [DoTS-vue](https://github.com/dots-suite/dots-vue), dedicated to the [demo project](https://dots.chartes.psl.eu/vue-demo/).|
+|**[dots-vue-demo-settings](https://github.com/dots-suite/dots-vue-demo-settings)**|Example configuration settings for [DoTS-vue](https://github.com/dots-suite/dots-vue), dedicated to the [demo project](https://dots.chartes.psl.eu/cookbook/).|
 
 Producing FAIR data is only half the job — it also needs to stay conformant over time. The following tools help you check that your DTS API responses and DoTS-vue configurations remain valid against the specifications and schemas they rely on.
 
