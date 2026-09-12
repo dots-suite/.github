@@ -14,7 +14,7 @@ Each tool is independent and agnostic. DoTS-vue, ThunderDoTS, and DoTS-cli-es ca
 |Resource|Description|
 |---|---|
 |**[ThunderDoTS](https://github.com/dots-suite/ThunderDots)**|A fast Python library for scraping DTS resources and converting them into Python objects, JSON, and DataFrames for downstream tasks.|
-|**[DoTS-cli-es](https://github.com/chartes/dots-cli-es)**|A command-line tool to index DTS collections in Elasticsearch, turning DTS endpoints into searchable resources.|
+|**[DoTS-cli-es](https://github.com/dots-suite/dots-cli-es)**|A command-line tool to index DTS collections in Elasticsearch, turning DTS endpoints into searchable resources.|
 
 Each module is designed to be simple to use, on its own or combined with the others — and to make these tools easier to adopt, significant effort has gone into the documentation.
 
@@ -24,6 +24,7 @@ Each module is designed to be simple to use, on its own or combined with the oth
 |---|---|
 |**[DoTS documentation](https://dots-suite.github.io/dots_documentation/)**| Walks you through installing DoTS, and structuring and publishing a TEI corpus, and details the DTS API endpoints it implements, with example requests.|
 |**[ThunderDoTS documentation](https://dots-suite.github.io/ThunderDots/)**| Covers installing and configuring ThunderDoTS, fragmenting TEI documents and validating their metadata, and exporting results to Elasticsearch, Qdrant, or DataFrames.|
+|**[DoTS-cli-es](https://dots-suite.github.io/dots-cli-es/)**| Covers DoTS-cli-es installation and configuration, indexing TEI documents and their metadata, and using its Search API.|
 |**Cookbooks**|The DoTS documentation provides [cookbooks](https://dots-suite.github.io/dots_documentation/cookbook/) for publishing sample corpora (the Théâtre corpus, the École des chartes' _Positions de thèses_, etc.). You can then browse our [DoTS-vue cookbooks](https://dots.chartes.psl.eu/cookbook/), showcasing the responsive scholarly-edition web application built on the same corpora for consistency. Each published corpus comes with its own step-by-step recipe, teaching you by example how to configure your own DoTS-vue instance.|
 
 ## 🧩 Example Settings
