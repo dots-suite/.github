@@ -25,6 +25,7 @@ Each module is designed to be simple to use, on its own or combined with the oth
 |**[DoTS documentation](https://dots-suite.github.io/dots_documentation/)**| Walks you through installing DoTS, and structuring and publishing a TEI corpus, and details the DTS API endpoints it implements, with example requests.|
 |**[ThunderDoTS documentation](https://dots-suite.github.io/ThunderDots/)**| Covers installing and configuring ThunderDoTS, fragmenting TEI documents and validating their metadata, and exporting results to Elasticsearch, Qdrant, or DataFrames.|
 |**[DoTS-cli-es documentation](https://dots-suite.github.io/dots-cli-es/)**| Covers DoTS-cli-es installation and configuration, indexing TEI documents and their metadata, and using its Search API.|
+|**[DoTS-vue settings documentation](https://dots-suite.github.io/dots-vue-demo-settings/)**| Covers building a settings repository for a DoTS-vue deployment: its layout, configuration files and available settings.|
 |**Cookbooks**|The DoTS documentation provides [cookbooks](https://dots-suite.github.io/dots_documentation/cookbook/) for publishing sample corpora (the Théâtre corpus, the École des chartes' _Positions de thèses_, etc.). You can then browse our [DoTS-vue cookbooks](https://dots.chartes.psl.eu/cookbook/), showcasing the responsive scholarly-edition web application built on the same corpora for consistency. Each published corpus comes with its own step-by-step recipe, teaching you by example how to configure your own DoTS-vue instance.|
 
 ## 🧩 Example Settings
