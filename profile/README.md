@@ -46,7 +46,7 @@ Producing FAIR data is only half the job — it also needs to stay conformant ov
 |**[dots-dts-jsonld-inspector](https://github.com/dots-suite/dots-dts-jsonld-inspector)**|Lightweight tool for inspecting and validating the JSON-LD responses returned by a DTS (DoTS) API endpoint.|
 |**[dots-vue-config-validator](https://github.com/dots-suite/dots-vue-config-validator)**|Validator for DoTS-vue configuration files, used to catch settings errors before deployment.|
 
-## Resources
+## Communication (papers, posters)
 
 - <a href="https://hal.science/hal-05175910v1" target="_blank">DH2025, Lisbon, PT — _FAIRly publishing your textual data with DoTS_</a>
 - <a href="https://hal.science/hal-05864097v1" target="_blank">EADH2026, Kraków, PL — _An open toolkit for FAIR TEI publishing and analysis_</a>
