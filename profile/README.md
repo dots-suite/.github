@@ -11,10 +11,11 @@ Each tool is independent and agnostic. DoTS-vue, ThunderDoTS, and DoTS-cli-es ca
 
 ## 🔌 Extensions / Plugins
 
-|Resource|Description|
-|---|---|
-|**[ThunderDoTS](https://github.com/dots-suite/ThunderDots)**|A fast Python library for scraping DTS resources and converting them into Python objects, JSON, and DataFrames for downstream tasks.|
-|**[DoTS-cli-es](https://github.com/dots-suite/dots-cli-es)**|A command-line tool to index DTS collections in Elasticsearch, turning DTS endpoints into searchable resources.|
+|  | Resource | Description |
+|:---:|---|---|
+| <img src="https://raw.githubusercontent.com/dots-suite/ThunderDots/refs/heads/master/assets/dots-light.png" width="200" alt="ThunderDoTS"> | **[ThunderDoTS](https://github.com/dots-suite/ThunderDots)** | A fast Python library for scraping DTS resources and converting them into Python objects, JSON, and DataFrames for downstream tasks. |
+| ![DoTS-cli-es](https://example.com/dots-cli-es.png) | **[DoTS-cli-es](https://github.com/dots-suite/dots-cli-es)** | A command-line tool to index DTS collections in Elasticsearch, turning DTS endpoints into searchable resources. |
+
 
 Each module is designed to be simple to use, on its own or combined with the others — and to make these tools easier to adopt, significant effort has gone into the documentation.
 
@@ -47,7 +48,7 @@ Producing FAIR data is only half the job — it also needs to stay conformant ov
 
 ## Resources
 
-- <a href="https://hal.science/hal-05175910v1" target="_blank">DH2025, Lisbon, PT — FAIRly publishing your textual data with DoTS</a>
+- <a href="https://hal.science/hal-05175910v1" target="_blank">DH2025, Lisbon, PT — _FAIRly publishing your textual data with DoTS_</a>
 - <a href="https://hal.science/hal-05864097v1" target="_blank">EADH2026, Kraków, PL — _An open toolkit for FAIR TEI publishing and analysis_</a>
 
 ## Funding
