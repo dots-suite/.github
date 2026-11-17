@@ -48,7 +48,7 @@ Producing FAIR data is only half the job — it also needs to stay conformant ov
 ## Resources
 
 - <a href="https://hal.science/hal-05175910v1" target="_blank">DH2025, Lisbon, PT — FAIRly publishing your textual data with DoTS</a>
-- EADH2026, Kraków, PL — _coming soon_
+- <a href="https://hal.science/hal-05864097v1" target="_blank">EADH2026, Kraków, PL — _An open toolkit for FAIR TEI publishing and analysis_</a>
 
 ## Funding
 
